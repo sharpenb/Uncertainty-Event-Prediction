@@ -1,6 +1,11 @@
 # Uncertainty on Asynchronous Time Event Prediction
 
-Tensorflow implementation of the paper "Uncertainty on Asynchronous Time Event Prediction" (Spotlight, Neurips 2019).
+This repository presents the experiments of the paper:
+
+[Uncertainty on Asynchronous Time Event Prediction](http://papers.nips.cc/paper/9445-uncertainty-on-asynchronous-time-event-prediction.pdf)<br>
+Marin Bilos, Bertrand Charpentier, Stephan Günnemann<br>
+Conference on Neural Information Processing Systems (NeurIPS), 2019. *Spotlight talk*
+
 
 ## Usage
 In order to train the models described in the paper:
