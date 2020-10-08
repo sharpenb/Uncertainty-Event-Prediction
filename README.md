@@ -6,6 +6,7 @@ This repository presents the experiments of the paper:
 Marin Bilos, Bertrand Charpentier, Stephan Günnemann<br>
 Conference on Neural Information Processing Systems (NeurIPS), 2019. *Spotlight talk*
 
+[[Paper](http://papers.nips.cc/paper/9445-uncertainty-on-asynchronous-time-event-prediction.pdf)|[Publisher](http://papers.nips.cc/paper/9445-uncertainty-on-asynchronous-time-event-prediction)]
 
 ## Usage
 In order to train the models described in the paper:
