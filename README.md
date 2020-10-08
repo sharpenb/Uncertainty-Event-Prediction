@@ -45,3 +45,19 @@ tensorflow=1.14.0
         <img src="assets/model-diagram.png" width="1000" height="200">
     </div>
 </div>
+
+## Cite
+Please cite our paper if you use the model or this code in your own work:
+
+```
+@incollection{NIPS2019_9445,
+title = {Uncertainty on Asynchronous Time Event Prediction},
+author = {Bilo\v{s}, Marin and Charpentier, Bertrand and G\"{u}nnemann, Stephan},
+booktitle = {Advances in Neural Information Processing Systems 32},
+editor = {H. Wallach and H. Larochelle and A. Beygelzimer and F. d\textquotesingle Alch\'{e}-Buc and E. Fox and R. Garnett},
+pages = {12851--12860},
+year = {2019},
+publisher = {Curran Associates, Inc.},
+url = {http://papers.nips.cc/paper/9445-uncertainty-on-asynchronous-time-event-prediction.pdf}
+}
+```
