@@ -8,6 +8,19 @@ Conference on Neural Information Processing Systems (NeurIPS), 2019. *Spotlight 
 
 [[Paper](http://papers.nips.cc/paper/9445-uncertainty-on-asynchronous-time-event-prediction.pdf)|[Publisher](http://papers.nips.cc/paper/9445-uncertainty-on-asynchronous-time-event-prediction)]
 
+## Model Diagram
+<div id="banner" style="overflow: hidden;justify-content:space-around;">
+    <div class="" style="display: inline-block;">
+        <img src="assets/model-diagram.png" width="1000" height="200">
+    </div>
+</div>
+
+## Requirements
+```
+numpy=1.17.2
+tensorflow=1.14.0
+```
+
 ## Usage
 In order to train the models described in the paper:
 ```bash
@@ -34,18 +47,6 @@ lr = 1e-3                     # Learning rate of Adam optimizer
 regularization = 1e-3         # L2 regularization
 
 ```
-
-## Requirements
-```
-numpy=1.17.2
-tensorflow=1.14.0
-```
-## Model Diagram
-<div id="banner" style="overflow: hidden;justify-content:space-around;">
-    <div class="" style="display: inline-block;">
-        <img src="assets/model-diagram.png" width="1000" height="200">
-    </div>
-</div>
 
 ## Cite
 Please cite our paper if you use the model or this code in your own work:
